@@ -1,0 +1,3 @@
+## Lab Activity 0: Discussion
+
+Setting up the Flutter environment involved resolving missing Android SDK Command-line Tools (`avdmanager`), downloading an AVD system image via Android Studio, and troubleshooting emulator connection errors alongside minor `main.dart` import fixes in Visual Studio Code. Diagnosing these issues through SDK folder checks and Device Manager clarified how Flutter relies on external platform toolchains and runtime bridges rather than operating standalone. Moving forward, running `flutter doctor` early, pre-installing SDK components, restarting IDEs after configuration updates, and keeping fallback targets like web or physical devices ready will streamline future setup.

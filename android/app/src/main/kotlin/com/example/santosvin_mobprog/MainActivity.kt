@@ -1,0 +1,5 @@
+package com.example.santosvin_mobprog
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
